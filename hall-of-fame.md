@@ -1,5 +1,5 @@
 Tips Hall of Fame:
-Rank | Date | Username | Totals Tips | tx
+Rank | Date | Username | Tip size | tx
 :-|:-|:-|-:|:-
 1 | 2022-03-10 15:06:05 | carlslarson | 150,000| 0xca2c833f1426d414dca1de2fde30ddcc9b7470b055073d50c2363738e74b9345
 2 | 2021-10-21 01:07:20 | 0x1945B5... | 28,829| 0x673dd18e315f8e0deae14e19f50bd1c47a0a15b3632a8bc7b7be2c194828b513
